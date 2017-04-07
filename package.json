@@ -13,11 +13,20 @@
     "site"
   ],
   "author": "Koji",
-  "license": "MIT",
+  "license": "GPL-3.0",
   "devDependencies": {
     "gulp": "^3.9.1",
     "gulp-autoprefixer": "^3.1.1",
     "gulp-cleancss": "^0.2.2",
     "gulp-htmlmin": "^3.0.0"
-  }
+  },
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tkoji/New_theme.git"
+  },
+  "bugs": {
+    "url": "https://github.com/tkoji/New_theme/issues"
+  },
+  "homepage": "https://github.com/tkoji/New_theme#readme"
 }
